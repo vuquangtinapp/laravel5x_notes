@@ -64,3 +64,6 @@ Và bây giờ mình sẽ giải thích mục đích, vai trò của từng thư
 
 Ngoài ra còn có các thư mục và tập tin khác nữa, nhưng mình sẽ nói rõ hơn ở các bài sau. Có một số thư mục mình còn giải thích quá trừu tượng, nhưng các bạn hãy tạm hiểu như thế ở các bài học riêng từng cái mình sẽ nói rõ hơn về Laravel.
 
+http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/
+
+http://esbenp.github.io/2016/04/15/modern-rest-api-laravel-part-2/
